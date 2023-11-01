@@ -1,0 +1,625 @@
+{
+  "items": [
+    {
+      "itemno": "855a889c51c74d0d875939b0cfb242a9",
+      "title": "Penton Black Smooth 30980001",
+      "price": 188.95,
+      "brand": "Dr. Martens",
+      "image": "https://resources.freshcotton.com/thumbnail/dc/da/17/1692097237/hbcsabbhjv-1_650x867.jpg",
+      "url": "dr-martens-penton-black-smooth-30980001",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/f9/20/ca/1692097237/hbcsabbhjv-2_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": [
+            "https://resources.freshcotton.com/media/23/5c/20/1691427774/dr.martens_(1).png"
+          ]
+        },
+        { "name": "Brand", "values": ["Dr. Martens"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["4"] },
+        { "name": "Variant", "values": ["EU 41", "EU 42"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "5520dbb7ca294624a7c20521c8dbf637",
+      "title": "Puma X Pleasures Hockey Jersey White 621317-02",
+      "price": 124.95,
+      "brand": "Puma",
+      "image": "https://resources.freshcotton.com/thumbnail/4a/d0/f0/1697883716/urajsdka-5_650x867.jpg",
+      "url": "puma-puma-x-pleasures-hockey-jersey-white-621317-02",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/18/02/33/1697883716/urajsdka-6_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/86/bd/3e/1681721250/Puma.webp"]
+        },
+        { "name": "Brand", "values": ["Puma"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["1"] },
+        { "name": "Variant", "values": ["Large"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "c3d232ee745b436588eecf302f2dd39e",
+      "title": "Velophasis Overdyed Pleasures Birch Tree Anise Flower 391696-02",
+      "price": 149.95,
+      "brand": "Puma",
+      "image": "https://resources.freshcotton.com/thumbnail/c7/ed/9d/1697883869/ekjbdfcksd-4_650x867.jpg",
+      "url": "puma-velophasis-overdyed-pleasures-birch-tree-anise-flower-391696-02",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/cb/da/a1/1697883869/ekjbdfcksd-2_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/86/bd/3e/1681721250/Puma.webp"]
+        },
+        { "name": "Brand", "values": ["Puma"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["10"] },
+        {
+          "name": "Variant",
+          "values": ["EU 40", "EU 40,5", "EU 42", "EU 42,5", "EU 44", "EU 44,5", "EU 45", "EU 46"]
+        },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "27cafc46a58747b9a130d36448d66bb2",
+      "title": "Puffer Jacket Black M990601",
+      "price": 294.95,
+      "brand": "OLAF",
+      "image": "https://resources.freshcotton.com/thumbnail/17/f7/03/1695383672/adbckdbc-9_650x867.jpg",
+      "url": "olaf-puffer-jacket-black-m990601",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/1e/87/38/1695383672/adbckdbc-3_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/a1/5b/81/1691428114/olaf.jpeg"]
+        },
+        { "name": "Brand", "values": ["OLAF"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["24"] },
+        { "name": "Variant", "values": ["Large", "Medium", "Small", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "8eef182dbfc94ad1bb5ce1739c64a564",
+      "title": "Adrian Ys Burgundy Smooth 27945606",
+      "price": 169.95,
+      "brand": "Dr. Martens",
+      "image": "https://resources.freshcotton.com/thumbnail/e5/8e/c6/1677499330/dkjvnefjvn-1_650x867.jpg",
+      "url": "dr-martens-adrian-ys-burgundy-smooth-27945606",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/4c/14/75/1677499330/dkjvnefjvn-4_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": [
+            "https://resources.freshcotton.com/media/23/5c/20/1691427774/dr.martens_(1).png"
+          ]
+        },
+        { "name": "Brand", "values": ["Dr. Martens"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["8"] },
+        { "name": "Variant", "values": ["EU 40", "EU 41", "EU 42", "EU 43", "EU 44", "EU 46"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "0319b1d82bf6486cba66ecc61a133cfc",
+      "title": "Distressed Hoodie Bram's Green 559",
+      "price": 159.95,
+      "brand": "Brams Fruit",
+      "image": "https://resources.freshcotton.com/thumbnail/34/8e/d6/1694590674/ewjfhjh-5_650x867.jpg",
+      "url": "brams-fruit-distressed-hoodie-bram-s-green-559",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/43/d4/62/1694590674/ewjfhjh-7_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/43/ab/65/1680175550/Brams fruit.webp"]
+        },
+        { "name": "Brand", "values": ["Brams Fruit"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["12"] },
+        { "name": "Variant", "values": ["Large", "Medium", "Small", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "2a8838ff8a344d1cb2767bff0d8dc12a",
+      "title": "Alta Puffer Jacket W3T3 Green 15120-03",
+      "price": 339.95,
+      "brand": "Rains",
+      "image": "https://resources.freshcotton.com/thumbnail/36/9c/c9/1694097481/jchisjcbasjk-6_650x867.jpg",
+      "url": "rains-alta-puffer-jacket-w3t3-green-15120-03",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/4f/d5/3f/1694097481/jchisjcbasjk-7_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": [
+            "https://resources.freshcotton.com/media/f6/77/64/1692949924/thumbnail_Rains_332d5d8d10.jpeg"
+          ]
+        },
+        { "name": "Brand", "values": ["Rains"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["2"] },
+        { "name": "Variant", "values": ["Large"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "ca5962eeae744b769715ae292a63f855",
+      "title": "XT-6 Black Black Phantom L41086600",
+      "price": 179.95,
+      "brand": "Salomon",
+      "image": "https://resources.freshcotton.com/thumbnail/be/68/f4/1689927477/jhbcwsnbj-5_650x867.jpg",
+      "url": "salomon-xt-6-black-black-phantom-l41086600",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/b4/4d/0e/1689927477/jhbcwsnbj-_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": [
+            "https://resources.freshcotton.com/media/8d/9c/70/1691428323/62334bc3dd0d9e6d0a152ab8.png"
+          ]
+        },
+        { "name": "Brand", "values": ["Salomon"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["20"] },
+        {
+          "name": "Variant",
+          "values": [
+            "EU 38",
+            "EU 38,5",
+            "EU 39,5",
+            "EU 40",
+            "EU 41,5",
+            "EU 42",
+            "EU 43,5",
+            "EU 44",
+            "EU 44,5",
+            "EU 45,5",
+            "EU 46"
+          ]
+        },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "4a025a46b18e484aaba5fe8f91bcf78d",
+      "title": "M 96 Retro Nuptse Jacket Coal Brown NF0A3C8DLOS1",
+      "price": 349.95,
+      "brand": "The North Face",
+      "image": "https://resources.freshcotton.com/thumbnail/62/21/ef/1696407284/iwejdwe-9_650x867.jpg",
+      "url": "the-north-face-m-96-retro-nuptse-jacket-coal-brown-nf0a3c8dlos1",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/54/7f/b7/1696407284/iwejdwe-8_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/24/17/2c/1681721489/TNF.webp"]
+        },
+        { "name": "Brand", "values": ["The North Face"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["7"] },
+        { "name": "Variant", "values": ["Large", "Medium", "Small", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "6443a2f38b5c48c18aefb767a28e9a38",
+      "title": "American Script Sweat Ore I025475-0RXX",
+      "price": 88.95,
+      "brand": "Carhartt WIP",
+      "image": "https://resources.freshcotton.com/thumbnail/2f/e1/28/1694591140/wjejhsjdh-4_650x867.jpg",
+      "url": "carhartt-wip-american-script-sweat-ore-i025475-0rxx",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/c0/27/59/1694591140/wjejhsjdh-5_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": [
+            "https://resources.freshcotton.com/media/5a/ed/a1/1691427545/carhartt_(1).jpeg"
+          ]
+        },
+        { "name": "Brand", "values": ["Carhartt WIP"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["40"] },
+        { "name": "Variant", "values": ["Large", "Medium", "Small", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "218fb62678164c2f98e4546db1920eac",
+      "title": "Tay AA Badge Lambswool Jumper Black 10275505-4159",
+      "price": 149.95,
+      "brand": "Double A by Wood Wood",
+      "image": "https://resources.freshcotton.com/thumbnail/76/74/7f/1695974927/ewurhfsnj-6_650x867.jpg",
+      "url": "double-a-by-wood-wood-tay-aa-badge-lambswool-jumper-black-10275505-4159",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/87/22/24/1695974893/ewurhfsnj-2_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/59/31/6d/1691515339/woodwood.png"]
+        },
+        { "name": "Brand", "values": ["Double A by Wood Wood"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["7"] },
+        { "name": "Variant", "values": ["Large", "Medium", "Small", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "518dc9fed9494f669ca4ac895ed1fbed",
+      "title": "Fusion 2.0 Silver Lining Mineral Red F804158",
+      "price": 119.96,
+      "brand": "Karhu",
+      "image": "https://resources.freshcotton.com/thumbnail/55/89/25/1694763106/kleur1fc_650x867.jpg",
+      "url": "karhu-fusion-2-0-silver-lining-mineral-red-f804158",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price", "values": ["149.95"] },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/72/97/50/1694763106/kleur1f3_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/f4/ff/16/1691427957/karhu.jpg"]
+        },
+        { "name": "Brand", "values": ["Karhu"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["89"] },
+        {
+          "name": "Variant",
+          "values": [
+            "EU 39",
+            "EU 40",
+            "EU 40,5",
+            "EU 41,5",
+            "EU 42",
+            "EU 42,5",
+            "EU 43,5",
+            "EU 44",
+            "EU 44,5",
+            "EU 45",
+            "EU 46"
+          ]
+        },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "19242fad2a13480fa2775056d3aa7699",
+      "title": "Cohen Heart Patch Crewneck Grey AW23-048C",
+      "price": 94.95,
+      "brand": "Arte Antwerp",
+      "image": "https://resources.freshcotton.com/thumbnail/18/a9/b4/1692877157/artg3_650x867.jpg",
+      "url": "arte-antwerp-cohen-heart-patch-crewneck-grey-aw23-048c",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/7e/d8/12/1692877157/artg4_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": [
+            "https://resources.freshcotton.com/media/e3/a6/53/1680175479/Arte Antwerp.webp"
+          ]
+        },
+        { "name": "Brand", "values": ["Arte Antwerp"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["11"] },
+        { "name": "Variant", "values": ["Large", "Medium", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "71dead6a74934eaab59ab192ec621ff0",
+      "title": "Kyle Heart Cardigan Cardigan Green AW23-103K",
+      "price": 179.95,
+      "brand": "Arte Antwerp",
+      "image": "https://resources.freshcotton.com/thumbnail/42/b8/78/1692951152/pwpwp-3_650x867.jpg",
+      "url": "arte-antwerp-kyle-heart-cardigan-cardigan-green-aw23-103k",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/3f/65/93/1692951152/pwpwp-4_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": [
+            "https://resources.freshcotton.com/media/e3/a6/53/1680175479/Arte Antwerp.webp"
+          ]
+        },
+        { "name": "Brand", "values": ["Arte Antwerp"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["5"] },
+        { "name": "Variant", "values": ["Large", "Medium", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "dd8bcf1bfc66416abb30e941daecc31c",
+      "title": "Samba OG Core Black Footwear White Gum B75807",
+      "price": 119.95,
+      "brand": "adidas",
+      "image": "https://resources.freshcotton.com/thumbnail/49/c2/84/1684938443/wfw-1_650x867.jpg",
+      "url": "adidas-samba-og-core-black-footwear-white-gum-b75807",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/42/e7/90/1684938443/wfw-3_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": [
+            "https://resources.freshcotton.com/media/14/fa/f6/1695200824/adidas_zwart_2.jpg"
+          ]
+        },
+        { "name": "Brand", "values": ["adidas"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["11"] },
+        {
+          "name": "Variant",
+          "values": [
+            "EU 37,5",
+            "EU 41,5",
+            "EU 42",
+            "EU 42,5",
+            "EU 43,5",
+            "EU 44",
+            "EU 44,5",
+            "EU 45,5"
+          ]
+        },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "1bb7d26ac6ac4c86a58922a1d810265f",
+      "title": "Container Logo Sweater Black 2302056001",
+      "price": 134.95,
+      "brand": "New Amsterdam Surf Association",
+      "image": "https://resources.freshcotton.com/thumbnail/20/6a/05/1690550923/jhnbjckhs-2_650x867.jpg",
+      "url": "new-amsterdam-surf-association-container-logo-sweater-black-2302056001",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/05/6f/78/1690550923/jhnbjckhs-1_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/27/44/fa/1691428095/nasa2.png"]
+        },
+        { "name": "Brand", "values": ["New Amsterdam Surf Association"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["14"] },
+        { "name": "Variant", "values": ["Large", "Medium", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "9b832d52e23a469b951530c388fba73f",
+      "title": "Uniform Hoodie Cement M140205",
+      "price": 99.95,
+      "brand": "OLAF",
+      "image": "https://resources.freshcotton.com/thumbnail/a7/62/95/1687878433/ckfjnvbkjf-2_650x867.jpg",
+      "url": "olaf-uniform-hoodie-cement-m140205",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/68/78/72/1687878433/ckfjnvbkjf-1_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/a1/5b/81/1691428114/olaf.jpeg"]
+        },
+        { "name": "Brand", "values": ["OLAF"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["48"] },
+        { "name": "Variant", "values": ["Large", "Medium", "Small", "XLarge", "XSmall"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "20282c65b5b84909bdb91aa3e9ccdcc5",
+      "title": "Obey Worldwide Cities Hoodie Digital Lavender 112843572-DLR",
+      "price": 104.95,
+      "brand": "Obey",
+      "image": "https://resources.freshcotton.com/thumbnail/ee/69/ee/1695383277/weohedhfn-3_650x867.jpg",
+      "url": "obey-obey-worldwide-cities-hoodie-digital-lavender-112843572-dlr",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/a0/98/56/1695383277/weohedhfn-5_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/2b/4b/69/1681721156/OBEY.webp"]
+        },
+        { "name": "Brand", "values": ["Obey"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["6"] },
+        { "name": "Variant", "values": ["Large", "Medium", "Small", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "316a67cfb4bf44e9916883133cf00892",
+      "title": "M2002RDN Dark Moss",
+      "price": 169.95,
+      "brand": "New Balance",
+      "image": "https://resources.freshcotton.com/thumbnail/01/1f/7d/1693911066/aisruv_4_650x867.jpg",
+      "url": "new-balance-m2002rdn-dark-moss",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/d5/07/bb/1693911067/aisruv_2_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/32/e7/25/1691428104/newbalance.jpeg"]
+        },
+        { "name": "Brand", "values": ["New Balance"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["7"] },
+        { "name": "Variant", "values": ["EU 41,5", "EU 42", "EU 42,5", "EU 43"] },
+        { "name": "releasetimer" }
+      ]
+    },
+    {
+      "itemno": "0f8a5683d53b4d0a945c3849d49af16f",
+      "title": "M's Retro Pile Vest El Cap Khaki Sisu Brown 22821-EKSI",
+      "price": 119.95,
+      "brand": "Patagonia",
+      "image": "https://resources.freshcotton.com/thumbnail/ed/49/b9/1690469073/jihugyjh-12_650x867.jpg",
+      "url": "patagonia-m-s-retro-pile-vest-el-cap-khaki-sisu-brown-22821-eksi",
+      "attributes": [
+        { "name": "Size" },
+        { "name": "New", "values": ["New"] },
+        { "name": "old_price" },
+        {
+          "name": "second_image",
+          "values": [
+            "https://resources.freshcotton.com/thumbnail/d0/7d/6d/1690469073/jihugyjh-1_650x867.jpg"
+          ]
+        },
+        {
+          "name": "BrandImage",
+          "values": ["https://resources.freshcotton.com/media/ce/de/4a/1681721237/Patagonia.webp"]
+        },
+        { "name": "Brand", "values": ["Patagonia"] },
+        { "name": "ProductMedia" },
+        { "name": "Stock", "values": ["15"] },
+        { "name": "Variant", "values": ["Large", "Medium", "Small", "XLarge"] },
+        { "name": "releasetimer" }
+      ]
+    }
+  ]
+}

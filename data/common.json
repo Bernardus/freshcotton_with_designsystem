@@ -1,0 +1,23 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "createdAt": "2023-07-25T15:08:27.061Z",
+      "updatedAt": "2023-10-05T14:31:29.366Z",
+      "publishedAt": "2023-07-31T10:29:09.718Z",
+      "locale": "nl",
+      "openingstijden": "Maandag t/m donderdag\n09:00 t/m 17:30\nVrijdag\n09:00 t/m 17:00",
+      "trustpilot": "TrustScore 4.5 \n2.961 reviews",
+      "topbar": {
+        "id": 1,
+        "text": "Explore our latest arrivals for the upcoming season 🍂",
+        "color": "#FFF4D3",
+        "background": "#986536",
+        "style": "static",
+        "url": "/nl/fresh-fall/",
+        "active": true
+      }
+    }
+  },
+  "meta": {}
+}

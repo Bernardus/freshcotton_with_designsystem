@@ -1,0 +1,1010 @@
+{
+  "data": [
+    {
+      "id": 255,
+      "attributes": {
+        "title": "Artist Yves Xavier and his Dr. Martens loafers",
+        "createdAt": "2023-10-30T13:24:00.832Z",
+        "updatedAt": "2023-10-31T15:08:16.588Z",
+        "publishedAt": "2023-10-31T12:27:43.780Z",
+        "locale": "nl",
+        "tag": null,
+        "slug": "artist-yves-xavier-and-his-dr-martens-loafers",
+        "description": "Ontdek de unieke style van Yves met zijn favoriete Dr. Martens loafers.              \n                              ",
+        "block": [
+          {
+            "id": 352,
+            "__component": "blog.content",
+            "text": "**Yves Xavier & Dr. Martens**\n\nWeet je wat, het is niet alleen freshcotton dat fan is van Dr. Martens loafers, <u>[Yves Xavier](https://www.instagram.com/yvesxavierr/)</u>, de muzikale voortrekker uit Amsterdam, is er ook helemaal weg van. Yves is een veelzijdige artiest in de muziekindustrie die naam heeft gemaakt als producer en artiest. Zijn muzikale avontuur begon met spontane freestyle sessies bij bushaltes – dat is waar hij een hele nieuwe dimensie van muziek ontdekte. Hij is helemaal _into_ de alternatieve R&B en alternatieve hip-hop _vibe_, hij mixt die werelden om een uniek geluid te creëren. Yves valt op in de Nederlandse muziekscene, hij brengt een frisse stijl en mengt muziekale stromingen op een te gekke eigenzinnige manier. Wat hem het meeste drijft in zijn muzikale carrière? Het zijn de mensen, zijn luisteraars, fans en de hele community die hem omringt. Die diepe connectie met zijn publiek is als brandstof voor zijn passie. Wanneer Yves het podium op stapt, barst hij van pure energie en voelt hij zich geweldig. Hij heeft dan ook een scherp oog voor zijn podium outfits. Yves houdt ervan om elegantie te combineren met een casual stijl, en naast zijn sporty streetwear look is hij ook helemaal fan van een _comfy casual vibe_. En weet je wat? Zijn Dr. Martens loafers passen perfect in dat plaatje. Hij rockt ze op het podium en in het dagelijks leven. In de huidige modescene, waar instappers vaak staan voor een relaxte, informele uitstraling, ziet Yves hoe ze een elegante en casual touch aan elke outfit kunnen geven.\n\n**Loafers**\n\nAls we het hebben over Dr. Martens, gaat het dus niet alleen over de legendarische laars, ze hebben een te gekke collectie <u>[loafers](https://www.freshcotton.com/nl/dr.-martens)</u> die je echt moet checken. Laten we drie _amazing_ loafers in de spotlights zetten. Allereerst hebben we de <u>[Penton Black Smooth](https://www.freshcotton.com/nl/dr-martens-penton-black-smooth-30980001/)</u>, de ultieme klassieker onder de loafers. Gemaakt van iconisch zwart Smooth Leather, biedt hij stijl en comfort voor elke gelegenheid. En als je houdt van die doorleefde, vintage look, dan is de <u>[Adrian Dark Brown Crazy Horse](https://www.freshcotton.com/nl/dr-martens-adrian-dark-brown-crazy-horse-30917201/)</u> echt iets voor jou. Het is een klassieke Dr. Martens loafer van leer dat er vanaf het begin al robuust uit ziet en alleen maar mooier wordt met de tijd. Dat is nog eens een mix van subcultuurstijl, comfort en ijzersterke stabiliteit. Last but not least, de <u>[Adrian Ys Black Smooth](https://www.freshcotton.com/nl/dr-martens-adrian-ys-black-smooth-22209001/)</u> – deze is al jaren een favoriet in de Dr. Martens collectie. Hij mixt moderne elegantie met duurzaamheid die je nooit in de steek zal laten. Deze instappers hebben alle drie de kenmerkende gele stiksels en een geribbelde zool, waardoor je de perfecte mix krijgt van traditie en innovatie, met oog detail en vakmanschap. Dus als je op zoek bent naar unieke, elegante en comfy loafers, is Dr. Martens _the way to go_!\n\n**Dr. Martens**\n\n<u>[Dr. Martens](https://www.freshcotton.com/nl/dr.-martens)</u>, het iconische merk dat al sinds 1947 de modewereld veroverd, heeft een toffe geschiedenis. In eerste instantie ontworpen als een eenvoudige werkschoen, en zelfs gepromoot als tuinschoen, is het nu een van de meest populaire merken van onze tijd. Wat Dr. Martens bijzonder maakt, is dat het mensen met een unieke stijl aanspreekt en ze samenbrengt met een gedeelde mentaliteit. Hier vind je mensen die echt zichzelf willen zijn, die trots hun eigen pad bewandelen en hun individualiteit omarmen. Dat is precies wat Dr. Martens zo speciaal maakt, en wij bij freshcotton zijn er trots op om hiermee verbonden te zijn.\n\nBekijk hoe Yves zijn favoriete paar Dr. Martens loafers in een van zijn optredens draagt. That’s a fresh look, toch? Geïnspireerd? Duik dan gerust in de wereld van Dr. Martens loafers, nu verkrijgbaar bij freshcotton.\n\nBenieuwd naar Yves Xavier zijn performance? Bekijk hieronder de video. "
+          },
+          { "id": 7, "__component": "blog.youtube", "video_id": "S8TWxdmxrXE" },
+          {
+            "id": 558,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 76, "__component": "blog.products", "title": "Products" }
+        ],
+        "cover": {
+          "data": {
+            "id": 923,
+            "attributes": {
+              "name": "FC_Banner_DrMartens (1).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 1204,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "/uploads/large_FC_Banner_Dr_Martens_1_2b39c2e08b.jpg",
+                  "hash": "large_FC_Banner_Dr_Martens_1_2b39c2e08b",
+                  "mime": "image/jpeg",
+                  "name": "large_FC_Banner_DrMartens (1).jpg",
+                  "path": null,
+                  "size": 100.82,
+                  "width": 1000,
+                  "height": 588
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_FC_Banner_Dr_Martens_1_2b39c2e08b.jpg",
+                  "hash": "small_FC_Banner_Dr_Martens_1_2b39c2e08b",
+                  "mime": "image/jpeg",
+                  "name": "small_FC_Banner_DrMartens (1).jpg",
+                  "path": null,
+                  "size": 29.44,
+                  "width": 500,
+                  "height": 294
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_FC_Banner_Dr_Martens_1_2b39c2e08b.jpg",
+                  "hash": "medium_FC_Banner_Dr_Martens_1_2b39c2e08b",
+                  "mime": "image/jpeg",
+                  "name": "medium_FC_Banner_DrMartens (1).jpg",
+                  "path": null,
+                  "size": 59.18,
+                  "width": 750,
+                  "height": 441
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_FC_Banner_Dr_Martens_1_2b39c2e08b.jpg",
+                  "hash": "thumbnail_FC_Banner_Dr_Martens_1_2b39c2e08b",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_FC_Banner_DrMartens (1).jpg",
+                  "path": null,
+                  "size": 9.37,
+                  "width": 245,
+                  "height": 144
+                }
+              },
+              "hash": "FC_Banner_Dr_Martens_1_2b39c2e08b",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 454.15,
+              "url": "/uploads/FC_Banner_Dr_Martens_1_2b39c2e08b.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-30T09:27:33.417Z",
+              "updatedAt": "2023-10-30T09:27:51.558Z"
+            }
+          }
+        },
+        "blogposts": { "data": [] },
+        "localizations": {
+          "data": [
+            {
+              "id": 254,
+              "attributes": {
+                "title": "Artist Yves Xavier and his Dr. Martens loafers",
+                "createdAt": "2023-10-30T09:32:29.864Z",
+                "updatedAt": "2023-10-31T15:08:16.533Z",
+                "publishedAt": "2023-10-31T12:25:21.297Z",
+                "locale": "en",
+                "tag": null,
+                "slug": "artist-yves-xavier-and-his-dr-martens-loafers",
+                "description": "Explore the unique style of Yves with his favourite Dr. Martens loafers.                  \n                             "
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 253,
+      "attributes": {
+        "title": "Puma x Pleasures freshcotton lookbook",
+        "createdAt": "2023-10-20T08:57:51.301Z",
+        "updatedAt": "2023-10-20T09:46:11.988Z",
+        "publishedAt": "2023-10-20T09:46:08.177Z",
+        "locale": "nl",
+        "tag": null,
+        "slug": "puma-x-pleasures-freshcotton-lookbook",
+        "description": "Check hier de nieuwste collectie van de Puma x Pleasures collab en laat je meenemen in een geweldige mix van streetwear, punk en grunge.",
+        "block": [
+          {
+            "id": 350,
+            "__component": "blog.content",
+            "text": "It's that time! De gloednieuwe collectie van Puma x Pleasures is vanaf deze zaterdag beschikbaar en belooft wederom een vette mix van streetwear, sport en innovatief design te bieden. Dit seizoen hebben de designs een _Y2K-look_ gekregen, waarbij de nadruk ligt op alle technische details. Puma, een pionier in sportmerken, en Pleasures, een _LA-based_ streetwear merk met punk- en grunge-geïnspireerde items, bundelen hun krachten voor deze _on point_ collab.\n\nDe samenwerking tussen <u>[Puma](https://www.freshcotton.com/nl/puma/)</u> en Pleasures staat bekend om hun _exciting_ en creatieve benadering van streetwear, iets waar freshcotton zelf ook fan van is. Deze nieuwe collab viel ons meteen op doordat het allemaal draait om opvallende kleuren, unieke graphics en _top quality_ die samensmelten in de beste sneakers, kleding en accessoires. De collectie heeft onder andere de opvallende Velophasis sneakers in twee verschillende kleurstellingen, geïnspireerd op de performance runningshoes uit het verleden van Puma. Daarnaast hebben we ook _branded graphic_ T-shirts en een comfortabele ijshockeyjersey met raglan-fit.\n\nMis deze kans niet om je streetwear level naar een hoger niveau te tillen met de Puma x Pleasures collectie. Dus, wees er snel bij! Vanaf morgen verkrijgbaar bij freshcotton.\n\nBekijk hieronder het lookbook met de Puma x Pleasures producten. That’s fresh!"
+          },
+          {
+            "id": 552,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          {
+            "id": 553,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          {
+            "id": 554,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          {
+            "id": 555,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          {
+            "id": 556,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          }
+        ],
+        "cover": {
+          "data": {
+            "id": 915,
+            "attributes": {
+              "name": "FC_banner_puma.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 1204,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "/uploads/large_FC_banner_puma_e32c211e63.jpg",
+                  "hash": "large_FC_banner_puma_e32c211e63",
+                  "mime": "image/jpeg",
+                  "name": "large_FC_banner_puma.jpg",
+                  "path": null,
+                  "size": 126.2,
+                  "width": 1000,
+                  "height": 588
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_FC_banner_puma_e32c211e63.jpg",
+                  "hash": "small_FC_banner_puma_e32c211e63",
+                  "mime": "image/jpeg",
+                  "name": "small_FC_banner_puma.jpg",
+                  "path": null,
+                  "size": 39.17,
+                  "width": 500,
+                  "height": 294
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_FC_banner_puma_e32c211e63.jpg",
+                  "hash": "medium_FC_banner_puma_e32c211e63",
+                  "mime": "image/jpeg",
+                  "name": "medium_FC_banner_puma.jpg",
+                  "path": null,
+                  "size": 77.7,
+                  "width": 750,
+                  "height": 441
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_FC_banner_puma_e32c211e63.jpg",
+                  "hash": "thumbnail_FC_banner_puma_e32c211e63",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_FC_banner_puma.jpg",
+                  "path": null,
+                  "size": 11.76,
+                  "width": 245,
+                  "height": 144
+                }
+              },
+              "hash": "FC_banner_puma_e32c211e63",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 297.13,
+              "url": "/uploads/FC_banner_puma_e32c211e63.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-20T09:19:46.352Z",
+              "updatedAt": "2023-10-20T09:19:46.352Z"
+            }
+          }
+        },
+        "blogposts": { "data": [] },
+        "localizations": {
+          "data": [
+            {
+              "id": 252,
+              "attributes": {
+                "title": "Puma x Pleasures freshcotton lookbook",
+                "createdAt": "2023-10-20T08:09:54.206Z",
+                "updatedAt": "2023-10-20T09:46:11.943Z",
+                "publishedAt": "2023-10-20T09:46:11.935Z",
+                "locale": "en",
+                "tag": null,
+                "slug": "puma-x-pleasures-freshcotton-lookbook",
+                "description": "Check out the latest collection from the Puma x Pleasures collab and immerse yourself in an incredible blend of streetwear."
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 250,
+      "attributes": {
+        "title": "The freshcotton layering lookbook ",
+        "createdAt": "2023-10-10T11:00:00.421Z",
+        "updatedAt": "2023-10-11T11:09:20.672Z",
+        "publishedAt": "2023-10-10T13:24:12.316Z",
+        "locale": "nl",
+        "tag": null,
+        "slug": "the-freshcotton-layering-lookbook",
+        "description": "Met de herfst in volle gang is het weer layering time! Bekijk hieronder het lookbook en laat je inspireren voor de beste fits.",
+        "block": [
+          {
+            "id": 347,
+            "__component": "blog.content",
+            "text": "De bladeren beginnen te vallen en de temperaturen dalen, dat betekent maar één ding: It’s layering time! Met de herfst in volle gang heeft freshcotton de ultieme inspiratie voor layered fits in een lookbook samengesteld. Het lookbook is een schatkist vol inspiratie, met items van talloze topmerken zoals <u>[Obey](https://www.freshcotton.com/nl/obey/)</u>, <u>[Carhartt WIP](https://www.freshcotton.com/nl/carhartt-wip/)</u>, <u>[Olaf](https://www.freshcotton.com/nl/olaf/)</u>, <u>[adidas](https://www.freshcotton.com/nl/adidas/)</u>, en veel meer. De nieuwste collecties zitten vol met prachtige herfstkleuren, texturen en eindeloze opties om te combineren. Van toffe broeken tot heerlijke jassen met te gekke prints, we hebben items voor elk weer en elke gelegenheid. Of je nu op zoek bent naar de perfecte outfit voor een dagelijks stadsavontuur of een upgrade van je stijl wilt, freshcotton heeft alles wat je nodig hebt. Dus waar wacht je nog op? Trek die _layers_ aan, _mix_ en _match_ erop los en blijf warm en fresh met freshcotton! Bekijk het layering lookbook en alle producten hieronder."
+          },
+          {
+            "id": 535,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 63, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 536,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 64, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 537,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 65, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 538,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 66, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 539,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 67, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 540,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 68, "__component": "blog.products", "title": "Producten" }
+        ],
+        "cover": {
+          "data": {
+            "id": 871,
+            "attributes": {
+              "name": "FC_banner_layers.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 1204,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "/uploads/large_FC_banner_layers_7a8af51387.jpg",
+                  "hash": "large_FC_banner_layers_7a8af51387",
+                  "mime": "image/jpeg",
+                  "name": "large_FC_banner_layers.jpg",
+                  "path": null,
+                  "size": 149.98,
+                  "width": 1000,
+                  "height": 588
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_FC_banner_layers_7a8af51387.jpg",
+                  "hash": "small_FC_banner_layers_7a8af51387",
+                  "mime": "image/jpeg",
+                  "name": "small_FC_banner_layers.jpg",
+                  "path": null,
+                  "size": 45.25,
+                  "width": 500,
+                  "height": 294
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_FC_banner_layers_7a8af51387.jpg",
+                  "hash": "medium_FC_banner_layers_7a8af51387",
+                  "mime": "image/jpeg",
+                  "name": "medium_FC_banner_layers.jpg",
+                  "path": null,
+                  "size": 91.07,
+                  "width": 750,
+                  "height": 441
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_FC_banner_layers_7a8af51387.jpg",
+                  "hash": "thumbnail_FC_banner_layers_7a8af51387",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_FC_banner_layers.jpg",
+                  "path": null,
+                  "size": 13.23,
+                  "width": 245,
+                  "height": 144
+                }
+              },
+              "hash": "FC_banner_layers_7a8af51387",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 366.99,
+              "url": "/uploads/FC_banner_layers_7a8af51387.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-10T10:57:26.304Z",
+              "updatedAt": "2023-10-10T10:57:26.304Z"
+            }
+          }
+        },
+        "blogposts": { "data": [] },
+        "localizations": {
+          "data": [
+            {
+              "id": 251,
+              "attributes": {
+                "title": "The freshcotton layering lookbook ",
+                "createdAt": "2023-10-10T11:18:33.645Z",
+                "updatedAt": "2023-10-11T11:09:20.598Z",
+                "publishedAt": "2023-10-10T13:24:15.336Z",
+                "locale": "en",
+                "tag": null,
+                "slug": "the-freshcotton-layering-lookbook",
+                "description": "With autumn in full swing, it’s layering time! Check out the lookbook below and get inspired for the best outfits.             \n        "
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 248,
+      "attributes": {
+        "title": "freshcotton OUTLET store @ Batavia Stad",
+        "createdAt": "2023-10-06T07:43:36.389Z",
+        "updatedAt": "2023-10-06T12:12:30.498Z",
+        "publishedAt": "2023-10-06T12:09:15.412Z",
+        "locale": "nl",
+        "tag": null,
+        "slug": "freshcotton-outlet-store-batavia-stad",
+        "description": "Kom ons bezoeken bij Batavia Stad van 14 tot en met 29 oktober.                          \n                                                    \n",
+        "block": [
+          {
+            "id": 344,
+            "__component": "blog.content",
+            "text": "We zijn _excited_ om aan te kondigen dat we de deuren zullen openen van onze OUTLET winkel in Batavia Stad van 14 oktober tot en met 29 oktober. Hier kun je items scoren van de meest toffe merken, allemaal voor super prijzen.\n\nMidden in het hart van Nederland, wacht Batavia Stad met een unieke winkelervaring op je. Al twee decennia lang zit dit gebied vol met prachtige groene straten en gezellige pleintjes, waar je kunt genieten van wel 150 winkels. En vanaf 14 oktober maken wij er twee weken deel van uit! In de rekken vind je merken zoals Arte, Obey, New Balance, Daily Paper en nog veel meer. Bereid je ook voor op een uitbreiding van je sneakercollectie, want wij staan voor je klaar met talloze geweldige stijlen.\n\nKom jij onze freshcotton OUTLET-winkel bezoeken? Maak er een lekkere winkel dag van en _take a break_ bij een van de leuke cafés en restaurants die Batavia Stad te bieden heeft. Block deze data in je agenda, want dit wil je niet missen!\n\n\n\n**Openingstijden:**\n\n14 oktober tot 29 oktober - 10:00 / 20:00\n\n**Let op:**\n\nWij bieden een garantie van 3 maanden op productiefouten\n\n**Locatie:**\n\nBataviaplein 62, 8242PN Lelystad"
+          }
+        ],
+        "cover": {
+          "data": {
+            "id": 867,
+            "attributes": {
+              "name": "Banner_BS_FS.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 1204,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "/uploads/large_Banner_BS_FS_912769b0bf.jpg",
+                  "hash": "large_Banner_BS_FS_912769b0bf",
+                  "mime": "image/jpeg",
+                  "name": "large_Banner_BS_FS.jpg",
+                  "path": null,
+                  "size": 71.15,
+                  "width": 1000,
+                  "height": 588
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_Banner_BS_FS_912769b0bf.jpg",
+                  "hash": "small_Banner_BS_FS_912769b0bf",
+                  "mime": "image/jpeg",
+                  "name": "small_Banner_BS_FS.jpg",
+                  "path": null,
+                  "size": 25.44,
+                  "width": 500,
+                  "height": 294
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_Banner_BS_FS_912769b0bf.jpg",
+                  "hash": "medium_Banner_BS_FS_912769b0bf",
+                  "mime": "image/jpeg",
+                  "name": "medium_Banner_BS_FS.jpg",
+                  "path": null,
+                  "size": 46.82,
+                  "width": 750,
+                  "height": 441
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_Banner_BS_FS_912769b0bf.jpg",
+                  "hash": "thumbnail_Banner_BS_FS_912769b0bf",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_Banner_BS_FS.jpg",
+                  "path": null,
+                  "size": 8.33,
+                  "width": 245,
+                  "height": 144
+                }
+              },
+              "hash": "Banner_BS_FS_912769b0bf",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 155.69,
+              "url": "/uploads/Banner_BS_FS_912769b0bf.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-06T12:04:04.799Z",
+              "updatedAt": "2023-10-06T12:04:04.799Z"
+            }
+          }
+        },
+        "blogposts": { "data": [] },
+        "localizations": {
+          "data": [
+            {
+              "id": 249,
+              "attributes": {
+                "title": "freshcotton OUTLET store @ Batavia Stad",
+                "createdAt": "2023-10-06T07:44:12.944Z",
+                "updatedAt": "2023-10-06T12:12:30.534Z",
+                "publishedAt": "2023-10-06T12:09:18.596Z",
+                "locale": "en",
+                "tag": null,
+                "slug": "freshcotton-outlet-store-batavia-stad",
+                "description": "Come visit us at Batavia Stad from October 14th 'till the 29th.                  \n                                       "
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 247,
+      "attributes": {
+        "title": "New in: Tommy Jeans puffers for fall and winter",
+        "createdAt": "2023-10-02T09:17:45.334Z",
+        "updatedAt": "2023-10-04T14:40:00.398Z",
+        "publishedAt": "2023-10-02T11:11:11.136Z",
+        "locale": "nl",
+        "tag": null,
+        "slug": "new-in-tommy-jeans-puffers-for-fall-and-winter",
+        "description": "Ontdek de gloednieuwe Alaska Puffer, get warm en cozy.                                       \n                       ",
+        "block": [
+          {
+            "id": 343,
+            "__component": "blog.content",
+            "text": "Als het gaat om iconic streetwear, is <u>[Tommy Jeans](https://www.freshcotton.com/nl/tommy-jeans/)</u> er eentje die direct in je gedachten opduikt. Met een classic en tijdloze stijl heeft Tommy Jeans zich stevig gevestigd in de wereld van streetwear. Het nieuwste item waar wij heel erg blij van worden is hun nieuwe Alaska Puffer Jacket, verkrijgbaar in vier verschillende kleuren om je deze herfst en winter warm en cozy te houden. De kleuren zijn onder andere <u>[Chambray Blue](https://www.freshcotton.com/nl/tommy-jeans-tjm-alaska-puffer-jacket-chambray-blue-dm0dm15445-c1x/)</u>, <u>[Twilight Navy](https://www.freshcotton.com/nl/tommy-jeans-tjm-alaska-puffer-twilight-navy-dm0dm15445-c87/)</u>, <u>[Black](https://www.freshcotton.com/nl/tommy-jeans-tjm-alaska-puffer-jacket-black-dm0dm15445-bds/)</u> en <u>[White](https://www.freshcotton.com/nl/tommy-jeans-tjm-alaska-puffer-jacket-white-dm0dm15445-ybr/)</u>.\n\nDe Alaska Puffer Jacket haalt zijn inspiratie uit de klassieke winterjassen van Tommy Jeans uit het verleden, speciaal ontworpen de tijd van nu. Deze puffy Jacket biedt niet alleen warmte en comfort, maar is ook milieubewust met een gerecyclede buitenkant. Hij is gemaakt om je te beschermen tegen extreme weersomstandigheden, zodat je dapper de hardste winters kunt trotseren. Een perfecte jas voor de koudere maanden, of je nu door de stad slentert of de natuur in gaat. Combineer hem met een hoodie of misschien wel met een bucket hat of beanie om je look verder af te maken.\n\n<u>[Montell](https://www.instagram.com/p/Cx50vIZI_bx/)</u> en <u>[Elise](https://www.instagram.com/p/Cx-RfJjM5-p/)</u> schitteren al in de Alaska Puffer Jacket en laten je zien hoe je deze jas moeiteloos kunt stylen. Montell draagt de kleur Chambray Blue, en Elise de kleur White. Laat je inspireren en trotseer de kou in stijl met <u>[Tommy Jeans](https://www.freshcotton.com/nl/tommy-jeans/)</u>. Nu verkrijgbaar bij freshcotton. \n"
+          },
+          {
+            "id": 533,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 61, "__component": "blog.products", "title": "Producten" }
+        ],
+        "cover": {
+          "data": {
+            "id": 848,
+            "attributes": {
+              "name": "banner12.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 1204,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "/uploads/large_banner12_25647f8a18.jpg",
+                  "hash": "large_banner12_25647f8a18",
+                  "mime": "image/jpeg",
+                  "name": "large_banner12.jpg",
+                  "path": null,
+                  "size": 91.47,
+                  "width": 1000,
+                  "height": 588
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_banner12_25647f8a18.jpg",
+                  "hash": "small_banner12_25647f8a18",
+                  "mime": "image/jpeg",
+                  "name": "small_banner12.jpg",
+                  "path": null,
+                  "size": 30.79,
+                  "width": 500,
+                  "height": 294
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_banner12_25647f8a18.jpg",
+                  "hash": "medium_banner12_25647f8a18",
+                  "mime": "image/jpeg",
+                  "name": "medium_banner12.jpg",
+                  "path": null,
+                  "size": 58.48,
+                  "width": 750,
+                  "height": 441
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_banner12_25647f8a18.jpg",
+                  "hash": "thumbnail_banner12_25647f8a18",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_banner12.jpg",
+                  "path": null,
+                  "size": 9.69,
+                  "width": 245,
+                  "height": 144
+                }
+              },
+              "hash": "banner12_25647f8a18",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 185.72,
+              "url": "/uploads/banner12_25647f8a18.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-10-02T11:10:03.956Z",
+              "updatedAt": "2023-10-02T11:10:03.956Z"
+            }
+          }
+        },
+        "blogposts": { "data": [] },
+        "localizations": {
+          "data": [
+            {
+              "id": 246,
+              "attributes": {
+                "title": "New in: Tommy Jeans puffers for fall and winter",
+                "createdAt": "2023-10-02T09:09:08.614Z",
+                "updatedAt": "2023-10-04T14:40:00.325Z",
+                "publishedAt": "2023-10-02T11:11:14.615Z",
+                "locale": "en",
+                "tag": null,
+                "slug": "new-in-tommy-jeans-puffers-for-fall-and-winter",
+                "description": "Discover the new Alaska puffer, a sure thing for warmth & comfort.                  \n                                          "
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 244,
+      "attributes": {
+        "title": "Freshcotton ladies lookbook",
+        "createdAt": "2023-09-28T07:34:56.201Z",
+        "updatedAt": "2023-09-28T11:26:03.750Z",
+        "publishedAt": "2023-09-28T11:24:15.519Z",
+        "locale": "nl",
+        "tag": null,
+        "slug": "freshcotton-ladies-lookbook",
+        "description": "Check hier ons nieuwste lookbook! Speciaal samengesteld voor vrouwen.\n                                                                               \n                                          \n ",
+        "block": [
+          {
+            "id": 340,
+            "__component": "blog.content",
+            "text": "Freshcotton staat vooral bekend om _guy-clothing_, maar we geloven sterk in de veelzijdigheid van mode. Daarom hebben we een lookbook geschoten met de nieuwste collecties, dit keer speciaal gestyled voor de ladies. Onze kleding niet beperkt is tot een bepaald gender en kan letterlijk door iedereen gedragen worden. Dit is een kans om te experimenteren, jouw unieke stijl te vinden en te laten zien dat kleding een krachtige manier kan zijn om jezelf uit te drukken.\n\nIn ons nieuwste lookbook vind je een zorgvuldig samengestelde selectie pareltjes uit de collecties van de meest fresh'e merken. Denk aan merken zoals Carhartt WIP, Obey, Olaf, New Amsterdam Surf Association en nog veel meer. Van oversized T-shirts tot overhemden met een mooie jacket eroverheen, de kleding is comfy en stijlvol. Perfect voor de herfst! Dus mix en match zoals jij dat wilt. Laat je inspireren en bekijk ons lookbook en alle producten hieronder."
+          },
+          {
+            "id": 517,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 44, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 516,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 45, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 518,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 46, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 519,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 47, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 520,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 49, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 521,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 50, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 522,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          {
+            "id": 524,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 51, "__component": "blog.products", "title": "Producten" },
+          {
+            "id": 523,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 48, "__component": "blog.products", "title": "Producten" }
+        ],
+        "cover": {
+          "data": {
+            "id": 807,
+            "attributes": {
+              "name": "FC_Ladies_banner.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 1204,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "/uploads/large_FC_Ladies_banner_55a286fab4.jpg",
+                  "hash": "large_FC_Ladies_banner_55a286fab4",
+                  "mime": "image/jpeg",
+                  "name": "large_FC_Ladies_banner.jpg",
+                  "path": null,
+                  "size": 142.59,
+                  "width": 1000,
+                  "height": 588
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_FC_Ladies_banner_55a286fab4.jpg",
+                  "hash": "small_FC_Ladies_banner_55a286fab4",
+                  "mime": "image/jpeg",
+                  "name": "small_FC_Ladies_banner.jpg",
+                  "path": null,
+                  "size": 39.23,
+                  "width": 500,
+                  "height": 294
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_FC_Ladies_banner_55a286fab4.jpg",
+                  "hash": "medium_FC_Ladies_banner_55a286fab4",
+                  "mime": "image/jpeg",
+                  "name": "medium_FC_Ladies_banner.jpg",
+                  "path": null,
+                  "size": 82.31,
+                  "width": 750,
+                  "height": 441
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_FC_Ladies_banner_55a286fab4.jpg",
+                  "hash": "thumbnail_FC_Ladies_banner_55a286fab4",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_FC_Ladies_banner.jpg",
+                  "path": null,
+                  "size": 11.58,
+                  "width": 245,
+                  "height": 144
+                }
+              },
+              "hash": "FC_Ladies_banner_55a286fab4",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 555.78,
+              "url": "/uploads/FC_Ladies_banner_55a286fab4.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-09-28T08:28:22.542Z",
+              "updatedAt": "2023-09-28T08:28:22.542Z"
+            }
+          }
+        },
+        "blogposts": { "data": [] },
+        "localizations": {
+          "data": [
+            {
+              "id": 245,
+              "attributes": {
+                "title": "Freshcotton ladies lookbook",
+                "createdAt": "2023-09-28T07:36:05.249Z",
+                "updatedAt": "2023-09-28T11:26:03.829Z",
+                "publishedAt": "2023-09-28T11:24:36.224Z",
+                "locale": "en",
+                "tag": null,
+                "slug": "freshcotton-ladies-lookbook",
+                "description": "Check out our latest lookbook here! Expertly styled for women.                      \n                                                       \n"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 240,
+      "attributes": {
+        "title": "Curated by Montell van Leijen",
+        "createdAt": "2023-09-22T10:55:14.575Z",
+        "updatedAt": "2023-09-26T09:15:31.277Z",
+        "publishedAt": "2023-09-22T11:14:17.807Z",
+        "locale": "nl",
+        "tag": null,
+        "slug": "curated-by-montell-van-leijen",
+        "description": "Ook benieuwd naar wat Montell van Leijen zijn favoriete items zijn van freshcotton? Check het hieronder!",
+        "block": [
+          {
+            "id": 336,
+            "__component": "blog.content",
+            "text": "Alle ogen zijn vaak gericht op Montell en dat is geen verassing. Montell werd in 2017 winnaar van Hollands Next Topmodel en daarmee was hij de eerste mannelijke winnaar van het programma. Met een unieke kenmerkende uitstraling spreekt de content van Montell een divers publiek aan op <u>[Instagram](https://www.instagram.com/montellvanleijen/?hl=nl)</u>. Zijn socials laten bovendien zien dat Montell een avonturier is die houdt van reizen en dat hij daarnaast een echte stijlicoon is waarmee hij meer dan 80 duizend mensen inspireert.\n\nMontell heeft geshopt bij freshcotton. Wij laten jullie hieronder zien wat zijn favoriete items zijn!"
+          },
+          { "id": 38, "__component": "blog.products", "title": "Gekozen door Montell" }
+        ],
+        "cover": {
+          "data": {
+            "id": 800,
+            "attributes": {
+              "name": "Curated_Montell.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 1204,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "/uploads/large_Curated_Montell_602c4534fc.jpg",
+                  "hash": "large_Curated_Montell_602c4534fc",
+                  "mime": "image/jpeg",
+                  "name": "large_Curated_Montell.jpg",
+                  "path": null,
+                  "size": 125.78,
+                  "width": 1000,
+                  "height": 588
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_Curated_Montell_602c4534fc.jpg",
+                  "hash": "small_Curated_Montell_602c4534fc",
+                  "mime": "image/jpeg",
+                  "name": "small_Curated_Montell.jpg",
+                  "path": null,
+                  "size": 36.45,
+                  "width": 500,
+                  "height": 294
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_Curated_Montell_602c4534fc.jpg",
+                  "hash": "medium_Curated_Montell_602c4534fc",
+                  "mime": "image/jpeg",
+                  "name": "medium_Curated_Montell.jpg",
+                  "path": null,
+                  "size": 75.89,
+                  "width": 750,
+                  "height": 441
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_Curated_Montell_602c4534fc.jpg",
+                  "hash": "thumbnail_Curated_Montell_602c4534fc",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_Curated_Montell.jpg",
+                  "path": null,
+                  "size": 10.25,
+                  "width": 245,
+                  "height": 144
+                }
+              },
+              "hash": "Curated_Montell_602c4534fc",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 433.6,
+              "url": "/uploads/Curated_Montell_602c4534fc.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-09-26T09:15:16.136Z",
+              "updatedAt": "2023-09-26T09:15:27.576Z"
+            }
+          }
+        },
+        "blogposts": { "data": [] },
+        "localizations": {
+          "data": [
+            {
+              "id": 241,
+              "attributes": {
+                "title": "Curated by Montell van Leijen",
+                "createdAt": "2023-09-22T11:10:42.692Z",
+                "updatedAt": "2023-09-26T09:15:31.201Z",
+                "publishedAt": "2023-09-22T11:14:14.995Z",
+                "locale": "en",
+                "tag": null,
+                "slug": "curated-by-montell-van-leijen",
+                "description": "Also curious about what Montell his favourite items are from freshcotton? Check it out below!         "
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 238,
+      "attributes": {
+        "title": "New brand: Pinkorange now at freshcotton",
+        "createdAt": "2023-09-22T08:58:36.030Z",
+        "updatedAt": "2023-09-22T09:56:03.806Z",
+        "publishedAt": "2023-09-22T09:53:08.500Z",
+        "locale": "nl",
+        "tag": null,
+        "slug": "new-brand-pinkorange-now-at-freshcotton",
+        "description": "Check nu hun nieuwe herfstcollectie op freshcotton!                                                        \n                                                       \n                                              \n                                                                          \n                                ",
+        "block": [
+          {
+            "id": 334,
+            "__component": "blog.content",
+            "text": "Vandaag stellen we je voor aan een gloednieuwe toevoeging aan onze brand family. Maak kennis met <u>[Pinkorange](https://www.freshcotton.com/en/pinkorange/)</u>, het Nederlandse kledingmerk dat een unieke mix van natuur en kunst biedt. Laten we duiken in het verhaal en de diepere betekenis achter dit merk.\n\nPinkorange dankt zijn naam aan de prachtige kleuren van de zonsondergang, waarin de essentie van de schoonheid van de natuur wordt vastgelegd. Dit merk is geboren op het schilderachtige eiland Vlieland, waar de oprichters inspiratie haalden uit de serene en afgelegen omgeving. Natuur en kunst vormen het hart van de identiteit van Pinkorange. Elke nieuwe collectie komt voort uit de creaties van kunstenaars die ze uitnodigen op het eiland. Midden in deze natuurlijke setting brengen de kunstenaars de meest waanzinnige kunstwerken tot leven, die de basis vormen voor Pinkorange’s collecties. \n\nBij freshcotton geven we om merken die niet alleen topkwaliteit spullen leveren, maar ook een verhaal en een doel hebben. Daarom introduceren we met trots Pinkorange in onze lijst met merken. De nieuwe herfst/wintercollectie is gemaakt in samenwerking met de kunstenaar Vincent de Boer. Zijn transformatie van kalligrafie naar cutting-edge illustratieve kunst mixt perfect met de stoffen, en dat resultert in draagbare meesterwerken die zijn te gekke en unieke stijl laten zien. That’s fresh! Laat je inspireren door deze kunstwerken en ontdek <u>[Pinkorange](https://www.freshcotton.com/nl/pinkorange/)</u> nu bij freshcotton!\n"
+          },
+          {
+            "id": 512,
+            "__component": "blog.images",
+            "grid": "row-cols-md-2",
+            "mobile_grid": "row-cols-2"
+          },
+          { "id": 36, "__component": "blog.products", "title": "Pinkorange" }
+        ],
+        "cover": {
+          "data": {
+            "id": 784,
+            "attributes": {
+              "name": "banner_PO3.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 1204,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "/uploads/large_banner_PO_3_d37c0f5b0a.jpg",
+                  "hash": "large_banner_PO_3_d37c0f5b0a",
+                  "mime": "image/jpeg",
+                  "name": "large_banner_PO3.jpg",
+                  "path": null,
+                  "size": 86.82,
+                  "width": 1000,
+                  "height": 588
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_banner_PO_3_d37c0f5b0a.jpg",
+                  "hash": "small_banner_PO_3_d37c0f5b0a",
+                  "mime": "image/jpeg",
+                  "name": "small_banner_PO3.jpg",
+                  "path": null,
+                  "size": 25.65,
+                  "width": 500,
+                  "height": 294
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_banner_PO_3_d37c0f5b0a.jpg",
+                  "hash": "medium_banner_PO_3_d37c0f5b0a",
+                  "mime": "image/jpeg",
+                  "name": "medium_banner_PO3.jpg",
+                  "path": null,
+                  "size": 51.8,
+                  "width": 750,
+                  "height": 441
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_banner_PO_3_d37c0f5b0a.jpg",
+                  "hash": "thumbnail_banner_PO_3_d37c0f5b0a",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_banner_PO3.jpg",
+                  "path": null,
+                  "size": 8.08,
+                  "width": 245,
+                  "height": 144
+                }
+              },
+              "hash": "banner_PO_3_d37c0f5b0a",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 224.54,
+              "url": "/uploads/banner_PO_3_d37c0f5b0a.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-09-22T09:22:51.153Z",
+              "updatedAt": "2023-09-22T09:22:51.153Z"
+            }
+          }
+        },
+        "blogposts": { "data": [] },
+        "localizations": {
+          "data": [
+            {
+              "id": 239,
+              "attributes": {
+                "title": "New brand: Pinkorange now at freshcotton",
+                "createdAt": "2023-09-22T09:00:46.568Z",
+                "updatedAt": "2023-09-22T09:56:03.746Z",
+                "publishedAt": "2023-09-22T09:53:04.949Z",
+                "locale": "en",
+                "tag": null,
+                "slug": "new-brand-pinkorange-now-at-freshcotton",
+                "description": "Discover their new fall collection                                     \n                                                                           \n                                                                            "
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": { "pagination": { "start": 0, "limit": 8, "total": 103 } }
+}
